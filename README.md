@@ -1,7 +1,9 @@
-![](https://github.com/helenabarmer/udemy-react-monsters/blob/main/public/monsters.png)
+
 
 # React Monsters
 Project from the Udemy course [Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/).
+
+![](https://github.com/helenabarmer/udemy-react-monsters/blob/main/public/monsters.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
